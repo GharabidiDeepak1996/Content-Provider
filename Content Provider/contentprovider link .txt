@@ -1,0 +1,3 @@
+https://www.tutlane.com/tutorial/android/android-content-providers-with-examples
+
+https://www.androidtutorialpoint.com/storage/android-content-provider-tutorial/
